@@ -4578,10 +4578,10 @@ markdown-it-abbr@^1.0.4:
   resolved "https://registry.yarnpkg.com/markdown-it-abbr/-/markdown-it-abbr-1.0.4.tgz#d66b5364521cbb3dd8aa59dadfba2fb6865c8fd8"
   integrity sha1-1mtTZFIcuz3Yqlna37ovtoZcj9g=
 
-markdown-it-anchor@^5.3.0:
-  version "5.3.0"
-  resolved "https://registry.yarnpkg.com/markdown-it-anchor/-/markdown-it-anchor-5.3.0.tgz#d549acd64856a8ecd1bea58365ef385effbac744"
-  integrity sha512-/V1MnLL/rgJ3jkMWo84UR+K+jF1cxNG1a+KwqeXqTIJ+jtA8aWSHuigx8lTzauiIjBDbwF3NcWQMotd0Dm39jA==
+markdown-it-anchor@^8.0.5:
+  version "8.0.5"
+  resolved "https://registry.yarnpkg.com/markdown-it-anchor/-/markdown-it-anchor-8.0.5.tgz#1f45e93fee9ddec30608296d9cd34ebe76d356f5"
+  integrity sha512-yoCu0dvXL+iLCq0mD5NnVFHIAMeRKWKq2ni0/BW3oRdh1lqKqb1RpWUhTso3GU5bgeQUXLsBes/p5wZV6Eb7PQ==
 
 markdown-it-footnote@^3.0.2:
   version "3.0.2"
